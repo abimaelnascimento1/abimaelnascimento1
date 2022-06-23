@@ -1,4 +1,4 @@
-## Olá, eu sou o Abimael Nascimento! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="10px"></h2>
+## Olá, eu sou o Abimael Nascimento! </h2>
 - 🔭 Iniciando no mundo da programação, no momento, desejo mudar de carreira para ser um dev front-end.
 - 🌱 Aprimorando conhecimentos em HTML, CSS, JavaScript e Bootstrap.
 - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas.
