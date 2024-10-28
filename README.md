@@ -1,7 +1,6 @@
 ## Olá, eu sou o Abimael Nascimento! </h2>
-- 🔭 Iniciando no mundo da programação, no momento, desejo mudar de carreira para ser um dev front-end.
-- 🌱 Aprimorando conhecimentos em HTML, CSS, JavaScript e Bootstrap.
-- 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas.
+- 🔭 Iniciando no mundo da programação, no momento, desejo mudar de carreira para ser um dev Back-End Júnior.
+- 🌱 Aprimorando conhecimentos em JavaScript, MySQL, Node.JS e Typescript.
 
 ##
 <br>
